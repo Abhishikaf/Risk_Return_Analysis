@@ -24,7 +24,7 @@ Based on the box plot visualization of the Daily returns for the four fund portf
 The calculated Standard deviation values and the annualized Standard deviation values for all the funds and the S&P 500 are summarired in the following table: 
 
 
-![Standard Deviation Table](Images/std_dev_table)
+![Standard Deviation Table](Images/std_dev_table.png)
 
 ----
 
