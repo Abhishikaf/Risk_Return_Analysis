@@ -34,7 +34,7 @@ The calculated Standard deviation values and the annualized Standard deviation v
 
 **Question 1** Based on the annualized standard deviation, which portfolios pose more risk than the S&P 500?
 
-**Answer 1 ** As such there are no funds that pose more risk than S&P 500. Based on the annualised standard deviation, S&P 500 has the highest deviation and hence is the most volatile, posing the most risk.
+**Answer 1** As such there are no funds that pose more risk than S&P 500. Based on the annualised standard deviation, S&P 500 has the highest deviation and hence is the most volatile, posing the most risk.
 
 **Question 2** Based on the rolling metrics, does the risk of each portfolio increase at the same time that the risk of the S&P 500 increases?
 
